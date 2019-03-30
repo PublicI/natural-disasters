@@ -1,0 +1,6 @@
+*.sh
+*.sql
+*.txt
+data/
+natural-disasters-env
+.ipynb_checkpoints
