@@ -1,10 +1,16 @@
 # Natural Disasters
 
-## Here's what's in this repo
+This repo contains code and data for [One Disaster Away](), a Center for Public Integrity investigation of how government is failing to protect America's most vulnerable residents from climate change-driven natural disasters.
 
-### 
+## Here's what's in this repo.
 
-## Data Dictionary
+### [natural-disasters-census-prep](natural-disasters-census-prep.ipynb)
+This Jupyter notebook contains code used to import and clean data from the US Census Bureau's API.
+
+### [disasters](disasters.csv)
+This comma-delimited text file contains data on more than 9,000 FEMA-recognized major disasters since 2009.
+
+## Disasters Data Dictionary
 
 * disasternumber: Sequentially assigned number used to designate an event or incident declared as a disaster. 
 * ihprogramdeclared: Denotes whether the Individuals and Households program was declared for this disaster. FEMA says to determine which disasters have triggered its Individual Assistance program to use both this field and the individual assistance field, labeled as iaprogramdeclared.
