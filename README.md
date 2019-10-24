@@ -7,7 +7,7 @@ This repo contains code and data for [One Disaster Away](), a Center for Public 
 ### [natural-disasters-census-prep](natural-disasters-census-prep.ipynb)
 This Jupyter notebook contains code used to import and clean data from the US Census Bureau's API.
 
-### [disasters](disasters.csv)
+### [disasters](data/disasters.csv)
 This comma-delimited text file contains data on more than 9,000 FEMA-recognized major disasters since 2009.
 
 ## Disasters Data Dictionary
