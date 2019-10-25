@@ -1,6 +1,8 @@
-# Natural Disasters
+# One Disaster Away
 
-This repo contains code and data for [One Disaster Away](), a Center for Public Integrity investigation of how government is failing to protect America's most vulnerable residents from climate change-driven natural disasters.
+This repo contains code and data for [One Disaster Away](https://publicintegrity.org/topics/environment/one-disaster-away/), a Center for Public Integrity investigation of how government is failing to protect America's most vulnerable residents from climate change-driven natural disasters.
+
+Its first story, ['A disastrous disconnect'](https://publicintegrity.org/environment/one-disaster-away/dangerous-disconnect-disaster-prone-states-climate-change) was published on Oct. 28, 2019.
 
 ## Here's what's in this repo.
 
@@ -8,7 +10,7 @@ This repo contains code and data for [One Disaster Away](), a Center for Public 
 This Jupyter notebook contains code used to import and clean data from the US Census Bureau's API.
 
 ### [disasters](data/disasters.csv)
-This comma-delimited text file contains data on more than 9,000 FEMA-recognized major disasters since 2009.
+This comma-delimited text file contains data on FEMA-recognized major disasters that have collectively hit nearly 90 percent of the country since 2009.
 
 ## Disasters Data Dictionary
 
